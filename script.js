@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'experience-description-2-2': 'Requirements analysis and functional testing.',
             'skills-title': 'Technical Skills',
             'projects-title': 'Projects',
-            'search-projects-placeholder': 'Search project by name or description in both...',
+            'search-projects-placeholder': 'Search project on Github',
             'github-projects-heading': 'Code Projects (GitHub)',
             'loading-github-projects': 'Loading GitHub projects...',
             'view-project-link': 'View Project', // For dynamically loaded GitHub projects
